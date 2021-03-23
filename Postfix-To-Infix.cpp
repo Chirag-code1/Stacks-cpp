@@ -8,7 +8,6 @@ bool isOperand(char x)
 return (x >= 'a' && x <= 'z') || 
 		(x >= 'A' && x <= 'Z'); 
 } 
-
 // Get Infix for a given postfix 
 // expression 
 string getInfix(string exp) 
