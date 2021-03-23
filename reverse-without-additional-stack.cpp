@@ -41,9 +41,6 @@ int main()
        cout<<st.top()<<" ";
        st.pop();
    }cout<<endl;
-
-
-    
     
         st.push(1);
     st.push(2);
