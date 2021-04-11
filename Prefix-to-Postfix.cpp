@@ -2,7 +2,6 @@
 #include <iostream>
 #include <stack>
 using namespace std;
-
 // funtion to check if character is operator or not
 bool isOperator(char x)
 {
