@@ -1,7 +1,6 @@
 // CPP Program to convert postfix to prefix
 #include <bits/stdc++.h>
 using namespace std;
-
 // function to check if character is operator or not
 bool isOperator(char x)
 {
