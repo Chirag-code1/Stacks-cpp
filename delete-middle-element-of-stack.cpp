@@ -1,6 +1,6 @@
 // C++ code to delete middle of a stack 
 // without using additional data structure. 
-#include<bits/stdc++.h> 
+#include<iostream.h> 
 using namespace std; 
 
 // Deletes middle of stack of size 
