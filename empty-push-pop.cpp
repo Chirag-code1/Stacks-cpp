@@ -32,5 +32,6 @@ int main ()
 	s.pop();
 	showstack(s);
 
+
 	return 0;
 }
