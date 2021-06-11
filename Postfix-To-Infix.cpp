@@ -47,6 +47,7 @@ string getInfix(string exp)
 int main() 
 { 
 	string exp = "ab*c+"; 
+        //string exp = "ab*c-";
 	cout << getInfix(exp); 
 	return 0; 
 } 
