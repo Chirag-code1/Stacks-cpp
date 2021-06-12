@@ -49,7 +49,7 @@ int main()
     
     reverse(st);
     
-    cout<<"Stack after reversing:\t"<<endl;
+    cout<<" Stack after reversing:\t"<<endl;
        while(!st.empty()){
        cout<<st.top()<<" ";
        st.pop();
