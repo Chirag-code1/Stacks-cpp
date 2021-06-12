@@ -39,6 +39,7 @@ int prefixEvaluate(string s) {
 int main() 
 { 
 	string s = "-+7*45+20"; 
+	// or, string s = "-+9*45-20"; 
 	cout<<"The result of evaluation of expression "<<s<<" is "<<prefixEvaluate(s); 
 	return 0; 
 }
