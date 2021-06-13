@@ -65,5 +65,6 @@ string infixtoPrefix(string s){
 int main()
 {
     cout<<infixtoPrefix("(a-b/c)*(a/k-l)")<<endl;
+    //    cout<<infixtoPrefix("(a+v/c)*(a*y-l)")<<endl;
     return 0;
 }
